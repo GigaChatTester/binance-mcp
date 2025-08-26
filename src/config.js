@@ -1,0 +1,1 @@
+const config = { apiKey: '12345' };
